@@ -1,0 +1,17 @@
+{
+  "name": "parametrized-location",
+  "version": "0.1.0",
+  "authors": [
+    "david <david.mazvovsky@gmail.com>"
+  ],
+  "main": "parametrized-location.min.js",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
